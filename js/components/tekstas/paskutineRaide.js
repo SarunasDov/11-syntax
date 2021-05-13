@@ -1,4 +1,3 @@
-  
 function paskutineRaide(text) {
     if (text === '') {
         return '';
